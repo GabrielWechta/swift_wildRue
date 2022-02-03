@@ -1,0 +1,3 @@
+[submodule "PAMA"]
+	path = PAMA
+	url = https://github.com/computer-vision2022/PAMA.git
